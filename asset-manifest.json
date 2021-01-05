@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/muftsabazaar/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/muftsabazaar/static/js/main.a4aa390e.chunk.js",
+    "main.js.map": "/muftsabazaar/static/js/main.a4aa390e.chunk.js.map",
+    "runtime-main.js": "/muftsabazaar/static/js/runtime-main.6b4a33f7.js",
+    "runtime-main.js.map": "/muftsabazaar/static/js/runtime-main.6b4a33f7.js.map",
+    "static/js/2.02512aca.chunk.js": "/muftsabazaar/static/js/2.02512aca.chunk.js",
+    "static/js/2.02512aca.chunk.js.map": "/muftsabazaar/static/js/2.02512aca.chunk.js.map",
+    "static/js/3.90b90d64.chunk.js": "/muftsabazaar/static/js/3.90b90d64.chunk.js",
+    "static/js/3.90b90d64.chunk.js.map": "/muftsabazaar/static/js/3.90b90d64.chunk.js.map",
+    "index.html": "/muftsabazaar/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/muftsabazaar/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.02512aca.chunk.js.LICENSE.txt": "/muftsabazaar/static/js/2.02512aca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b4a33f7.js",
+    "static/js/2.02512aca.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a4aa390e.chunk.js"
+  ]
+}
