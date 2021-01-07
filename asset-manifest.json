@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/muftsabazaar/static/css/main.d9048dcf.chunk.css",
-    "main.js": "/muftsabazaar/static/js/main.faff5fc5.chunk.js",
-    "main.js.map": "/muftsabazaar/static/js/main.faff5fc5.chunk.js.map",
+    "main.js": "/muftsabazaar/static/js/main.b321e24d.chunk.js",
+    "main.js.map": "/muftsabazaar/static/js/main.b321e24d.chunk.js.map",
     "runtime-main.js": "/muftsabazaar/static/js/runtime-main.0d441b07.js",
     "runtime-main.js.map": "/muftsabazaar/static/js/runtime-main.0d441b07.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/muftsabazaar/static/css/2.ae9f1eb3.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.d4c3c0f3.chunk.js",
     "static/css/main.d9048dcf.chunk.css",
-    "static/js/main.faff5fc5.chunk.js"
+    "static/js/main.b321e24d.chunk.js"
   ]
 }
